@@ -474,3 +474,9 @@ Contains: Missing org.springframework.security.oath:spring-security-oauth2:jar:s
 
 !ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2018-11-13 16:04:57.986
 !MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.0.12.Final
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2018-11-13 16:46:20.382
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.0.12.Final
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2018-11-13 16:52:15.859
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.0.12.Final
