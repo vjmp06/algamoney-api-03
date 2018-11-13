@@ -438,3 +438,39 @@ Contains: Missing org.springframework.security.oath:spring-security-oauth2:jar:s
 
 !ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2018-11-13 14:17:25.922
 !MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.0.12.Final
+
+!ENTRY org.eclipse.jface.text 2 0 2018-11-13 15:53:31.782
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-11-13 15:53:32.038
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2018-11-13 15:57:52.713
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.0.12.Final
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2018-11-13 15:57:53.237
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.0.12.Final
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2018-11-13 15:59:33.358
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.0.12.Final
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2018-11-13 16:01:45.085
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.0.12.Final
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2018-11-13 16:02:00.600
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.0.12.Final
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2018-11-13 16:02:14.995
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.0.12.Final
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2018-11-13 16:03:23.499
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.0.12.Final
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2018-11-13 16:03:48.875
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.0.12.Final
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2018-11-13 16:03:57.665
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.0.12.Final
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2018-11-13 16:04:57.986
+!MESSAGE Hibernate JPA 2 Static-Metamodel Generator 5.0.12.Final
