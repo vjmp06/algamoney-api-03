@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="antlr.collections.List"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="javax.persistence.criteria.CriteriaQuery"/>
+<fullyQualifiedTypeName name="javax.persistence.criteria.Predicate"/>
+<fullyQualifiedTypeName name="org.springframework.util.StringUtils"/>
+<fullyQualifiedTypeName name="com.example.algamoney.api.model.Lancamento_"/>
+</qualifiedTypeNameHistroy>
