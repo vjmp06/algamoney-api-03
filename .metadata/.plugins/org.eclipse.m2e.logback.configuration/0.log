@@ -726,3 +726,58 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2018-11-13 19:45:04,383 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
 2018-11-13 19:45:04,388 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-11-13 19:45:04,390 [Worker-128: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vinic\Desktop\algaworks3\algamoney-api\src\test\resources
+2018-11-13 22:09:35,320 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-13 22:09:35,325 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-13 22:09:35,345 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-11-13 22:09:35,360 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-13 22:09:35,360 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vinic\Desktop\algaworks3\algamoney-api\src\test\resources
+2018-11-13 22:12:21,412 [Worker-155: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-13 22:12:21,414 [Worker-155: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-13 22:12:21,419 [Worker-155: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-11-13 22:12:21,422 [Worker-155: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-13 22:12:21,424 [Worker-155: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vinic\Desktop\algaworks3\algamoney-api\src\test\resources
+2018-11-13 22:25:40,337 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-13 22:25:40,340 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-13 22:25:40,348 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-11-13 22:25:40,352 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-13 22:25:40,352 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vinic\Desktop\algaworks3\algamoney-api\src\test\resources
+2018-11-13 22:27:35,100 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-13 22:27:35,102 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-13 22:27:35,108 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-11-13 22:27:35,113 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-13 22:27:35,114 [Worker-154: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vinic\Desktop\algaworks3\algamoney-api\src\test\resources
+2018-11-13 23:05:39,326 [Worker-170: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-13 23:05:39,326 [Worker-170: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-13 23:05:39,342 [Worker-170: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-11-13 23:05:39,342 [Worker-170: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-13 23:05:39,342 [Worker-170: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vinic\Desktop\algaworks3\algamoney-api\src\test\resources
+2018-11-13 23:06:16,633 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-13 23:06:16,633 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-13 23:06:16,649 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-11-13 23:06:16,649 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-13 23:06:16,649 [Worker-168: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vinic\Desktop\algaworks3\algamoney-api\src\test\resources
+2018-11-13 23:11:13,428 [Worker-167: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-13 23:11:13,433 [Worker-167: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-13 23:11:13,439 [Worker-167: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-11-13 23:11:13,445 [Worker-167: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-13 23:11:13,445 [Worker-167: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vinic\Desktop\algaworks3\algamoney-api\src\test\resources
+2018-11-13 23:12:33,299 [Worker-172: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-13 23:12:33,301 [Worker-172: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-13 23:12:33,307 [Worker-172: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-11-13 23:12:33,311 [Worker-172: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-13 23:12:33,312 [Worker-172: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vinic\Desktop\algaworks3\algamoney-api\src\test\resources
+2018-11-13 23:13:15,903 [Worker-167: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-13 23:13:15,907 [Worker-167: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-13 23:13:15,914 [Worker-167: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-11-13 23:13:15,919 [Worker-167: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-13 23:13:15,919 [Worker-167: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vinic\Desktop\algaworks3\algamoney-api\src\test\resources
+2018-11-13 23:14:43,100 [Worker-175: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-13 23:14:43,102 [Worker-175: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-13 23:14:43,107 [Worker-175: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-11-13 23:14:43,110 [Worker-175: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-13 23:14:43,112 [Worker-175: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vinic\Desktop\algaworks3\algamoney-api\src\test\resources
+2018-11-13 23:18:16,253 [Worker-174: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-13 23:18:16,257 [Worker-174: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-13 23:18:16,263 [Worker-174: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2018-11-13 23:18:16,266 [Worker-174: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-13 23:18:16,267 [Worker-174: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\vinic\Desktop\algaworks3\algamoney-api\src\test\resources
