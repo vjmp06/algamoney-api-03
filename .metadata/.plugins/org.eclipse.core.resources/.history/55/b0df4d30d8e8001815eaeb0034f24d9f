@@ -15,13 +15,12 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.security.oauth2.config.annotation.web.configuration.EnableResourceServer;
 import org.springframework.security.oauth2.config.annotation.web.configuration.ResourceServerConfigurerAdapter;
 import org.springframework.security.oauth2.config.annotation.web.configurers.ResourceServerSecurityConfigurer;
-import org.springframework.security.oauth2.provider.expression.OAuth2MethodSecurityExpressionHandler;
 
 //A anotação Configuration não é necessária devido a ela já esta incluida em EnableWebSecurity
 @Configuration
 @EnableWebSecurity
 @EnableResourceServer
-@EnableGlobalMethodSecurity(prePostEnabled = true)
+@EnableGlobalMethodSecurity
 public class ResourceServerConfig extends ResourceServerConfigurerAdapter {
 	@Autowired
 	private UserDetailsService userDetailsService;
@@ -35,7 +34,7 @@ public class ResourceServerConfig extends ResourceServerConfigurerAdapter {
 	@Override
 	public void configure(HttpSecurity http) throws Exception{
 		http.authorizeRequests()
-			//.antMatchers("/categorias").permitAll()
+			.antMatchers("/categorias").permitAll()
 			.anyRequest().authenticated()
 			.and()
 		.sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS).and()
@@ -56,7 +55,7 @@ public class ResourceServerConfig extends ResourceServerConfigurerAdapter {
 	
 	@Bean
 	public MethodSecurityExpressionHandler createExpressionHandler() {
-		return new OAuth2MethodSecurityExpressionHandler();
+		
 	}
 
 }
